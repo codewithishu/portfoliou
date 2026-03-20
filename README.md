@@ -16,4 +16,4 @@ Final year CS student from Bihar, passionate about building intelligent web appl
 ## 📬 Contact
 - 📧 Email: menkatiwari79@gmail.com
 - 🐙 GitHub: [codewithishu](https://github.com/codewithishu)
-- 💼 LinkedIn: [Menka Kumari](https://linkedin.com/in/menka-kumari)
+- 💼 LinkedIn: [Menka Kumari](https://www.linkedin.com/in/menka-kumari-a41855287/)
